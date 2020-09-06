@@ -1,2 +1,3 @@
 # About Myself
-My name is Paa Kwasi Kodua.
+This repository gives a little information about myself.
+The main thing in this repository is index.html.
