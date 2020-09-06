@@ -1,2 +1,2 @@
 # About Myself
-My name is Paa Kwasi Kodua
+My name is Paa Kwasi Kodua.
