@@ -1,1 +1,2 @@
-# demo-1
+# About Myself
+My name is Paa Kwasi Kodua
